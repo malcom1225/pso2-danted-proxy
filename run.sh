@@ -15,4 +15,3 @@ sudo update-rc.d sockd defaults
 sudo cp sockdconf.txt /etc/sockd.conf
 sudo /etc/init.d/sockd start
 sudo /etc/init.d/sockd status
-
